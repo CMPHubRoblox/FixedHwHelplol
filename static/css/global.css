@@ -37,3 +37,8 @@ body {
   from{border-right-color: rgba(0, 132, 255, 0.75);}
   to{border-right-color: transparent;}
 }
+
+.navbar {
+  -webkit-backdrop-filter: blur(80px);
+  backdrop-filter: blur(80px);
+}
