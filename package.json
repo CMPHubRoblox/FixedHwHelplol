@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "bare-server-node": "github:tomphttp/bare-server-node",
     "fetch-headers": "^3.0.1",
     "node-static": "^0.7.11"
   },
@@ -9,7 +10,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm install --global @tomphttp/bare-server-node && node ."
+    "start": "node ."
   },
   "keywords": [
     "proxy"
