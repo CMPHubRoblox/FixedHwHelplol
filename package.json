@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "bare-server-node": "bare-server-node",
+    "bare-server-node": "1",
     "fetch-headers": "^3.0.1",
     "node-static": "^0.7.11"
   },
